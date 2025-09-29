@@ -1,24 +1,48 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: aliceblue;
 }
-#header{
+
+#header {
     display: inline-block;
-    color: tomato;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: tomato;
+    padding: 10px;
 }
-.header h1{
+
+header h1 {
     text-align: center;
-    display: inline-block;
+    color: black;
+    display: inline;
 }
-#logo{
-    align-items: flex-start;
+
+#logo {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    margin-top: 5px;
-    margin-left: 5px;
+    vertical-align: middle;
+}
+
+#myButton {
+    color: blue;
+    width: 70px;
+}
+
+#basic-intro {
+    margin-top: 80px; 
+}
+#me{
+    height: 200px;
+    width: 200px;
+}
+content{
+    display: inline;
 }
