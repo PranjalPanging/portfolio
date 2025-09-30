@@ -22,6 +22,8 @@ header h1 {
     text-align: center;
     color: white;
     display: inline;
+    font-size: 20px;
+    text-decoration: none;
 }
 
 #logo {
@@ -39,13 +41,17 @@ header h1 {
 #basic-intro {
     margin-top: 80px; 
 }
+/*My Introduction*/
 #me{
     height: 200px;
     width: 200px;
 }
-content{
-    display: inline;
+.me p{
+    display: inline-block;
+    margin-left: 20px;
 }
+/*TIll here my introduction*/
+
 /*Footer stuff*/
 .footer {
     text-align: center;
