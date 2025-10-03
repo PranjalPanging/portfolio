@@ -1,5 +1,4 @@
 # portfolio
 My portfolio website created with HTML, CSS, and JavaScript. It highlights my projects, skills, and achievements, and provides an easy way to connect with me.
 
-# Live at
-[Pranjal Panging - Portfolio](pranjalpanging-portfolio.netlify.app)
+**Portfolio:** [pranjalpanging-portfolio](https://pranjalpanging-portfolio.netlify.app)
